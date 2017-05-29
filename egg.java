@@ -1,3 +1,5 @@
+/* PRELIM PERIOD */
+
 import java.io.*;
 
 class egg {
